@@ -1,7 +1,11 @@
-# Machine-Learning-Study
-         learning of the book Machine Learning in Action
-         
-         记录《机器学习实战》的学习过程
-         
-         代码不简单抄写书中代码，完全理解后再自己复现，部分代码处已备注与书中不同处
-             2020/02/06
+# <Machine Learning in Action>
+	|chapter2  knn算法  
+			
+	|chapter3
+	|chapter4
+	|chapter5
+	|chapter6
+	|chapter7  
+			|---  buildStump.py 建立单层决策树作为弱分类器
+			|---  adaBoost.py   元算法
+	
