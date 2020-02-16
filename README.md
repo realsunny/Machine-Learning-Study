@@ -20,4 +20,7 @@
     |chapter7    
 	    |---  buildStump.py 建立单层决策树作为弱分类器  
 	    |---  adaBoost.py   元算法  
+    |chapter8  
+    	    |---ex0.txt 线性回归训练数据
+	    |---lineRegre1.py 梯度下降解线性回归(数值型数据)
 	 
