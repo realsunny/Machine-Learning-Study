@@ -29,3 +29,8 @@
 	* |---publicFunc.py 一些公用函数
 	* |---testSet.txt data
 	* |---testSet2.txt data
+* chapter11 apriori  
+	* |---main 包括了apriori的所有算法（粗糙）
+* chapter12 fpgrowth
+	* |--- fpgrowth.py
+	* |---simpDat
